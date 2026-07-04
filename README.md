@@ -433,9 +433,8 @@ http://localhost:5000
 
 **MERN Stack Developer**
 
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourusername
+GitHub: https://github.com/saniyakousar12/Farm2Table.git
+LinkedIn:https://www.linkedin.com/in/saniya-kousar-48b73327a/
 
 ---
 
